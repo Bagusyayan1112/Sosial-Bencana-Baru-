@@ -117,28 +117,6 @@
 
 
     <!-- Information -->
-    <section class="information">
-        <div class="container-fluid">  
-            <div class="row text-light">
-                <div class="col-lg-4 text-center p-5" data-aos="zoom-in">
-                    <i class="fas fa-tachometer-alt fa-3x p-2"></i>
-                    <h4 class="py-3">Download 1 GBPS</h4>
-                    <p class="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
-                </div>
-                <div class="col-lg-4 text-center p-5"  data-aos="zoom-in">
-                    <i class="fas fa-clock fa-3x p-2"></i>
-                    <h4 class="py-3">99% Internet Uptime</h4>
-                    <p class="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
-                </div>
-                <div class="col-lg-4 text-center p-5 text-dark"  data-aos="zoom-in"> 
-                    <i class="fas fa-headset fa-3x p-2"></i>
-                    <h4 class="py-3">24/7 Support </h4>
-                    <p class="para-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magnam odit consequatur doloribus natus in suscipit!</p>
-                </div>
-            </div>
-        </div> <!-- end of container -->
-    </section> <!-- end of information -->
-    
 
     <!-- About -->
     <section class="about d-flex align-items-center text-light py-5" id="about">
