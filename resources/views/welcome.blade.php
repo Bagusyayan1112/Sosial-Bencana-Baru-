@@ -51,10 +51,11 @@
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
                         <a class="nav-link active" aria-current="page" href="#header">Home</a>        
+                        <li class="nav-item">
+                        <a class="nav-link active" aria-current="/login" href="#header">Login</a>        
             
                     
-                    <li class="nav-item">
-                    <a class="nav-linkk" href="/login">Login</a>
+                   
                     </li>
                 </ul>
                 <span class="nav-item social-icons">
