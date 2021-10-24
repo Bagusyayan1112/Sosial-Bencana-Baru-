@@ -50,30 +50,11 @@
             <div class="navbar-collapse offcanvas-collapse" id="navbarsExampleDefault" >
                 <ul class="navbar-nav ms-auto navbar-nav-scroll">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="#header">Home</a>
-                    </li>
+                        <a class="nav-link active" aria-current="page" href="#header">Home</a>        
+            
+                    
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">About</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#services">Services</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#plans">Plans</a>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false" href="#">Drop</a>
-                        
-                        <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                            <li><a class="dropdown-item" href="article.html">Article Details</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="terms.html">Terms Conditions</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="privacy.html">Privacy Policy</a></li>
-                        </ul>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#contact">Contact</a>
+                    <a class="nav-linkk" href="/login">Login</a>
                     </li>
                 </ul>
                 <span class="nav-item social-icons">
@@ -99,8 +80,8 @@
     <!-- Home -->
     <section class="home py-5 d-flex align-items-center" id="header">
         <div class="container text-light py-5"  data-aos="fade-right"> 
-            <h1 class="headline"><span class="home_text">Selamat Datang</span><br>Internet Plans For You</h1>
-            <p class="para para-light py-3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus tempore accusamus quis magnam doloremque itaque ad modi, pariatur iste labore similique officiis impedit aspernatur aperiam facere architecto. Eligendi, repellendus inventore!</p>
+            <h1 class="headline"><span class="home_text">Selamat Datang</span><br>Di Website Pelaporan Bencana</h1>
+            <p class="para para-light py-3">Bencana sosial adalah bencana yang diakibatkan oleh peristiwa atau serangkaian peristiwa yang diakibatkan oleh manusia yang meliputi konflik sosial antarkelompok atau antarkomunitas masyarakat, dan teror</p>
             <div class="d-flex align-items-center">
                 <p class="p-2"><i class="fas fa-laptop-house fa-lg"></i></p>
                 <p>Lorem ipsum dolor sit amet.</p>  
@@ -110,7 +91,7 @@
                 <p>Lorem ipsum dolor sit amet.</p>  
             </div>
             <div class="my-3">
-                <a class="btn" href="#plans">View Plans</a>
+                <a class="btn" href="#plans">Klik Aku Mas</a>
             </div>
         </div> <!-- end of container -->
     </section> <!-- end of home -->
